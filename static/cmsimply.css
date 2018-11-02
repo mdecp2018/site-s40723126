@@ -2,7 +2,7 @@
   position: relative;
 }
 header{
-  background: #ccc;
+  background-image:url("https://cdn2.ettoday.net/images/1612/1612812.gif");
   padding: 20px;
 }
 confmenu
@@ -201,6 +201,7 @@ background-color: white;
 width: 195px;
 }
 body {
+  background-image:url("https://cdn2.ettoday.net/images/1612/1612812.gif");
   margin-bottom: 120px;
 }
 
