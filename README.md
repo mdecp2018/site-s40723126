@@ -12,4 +12,4 @@ cpgx 網站: https://cpgx.kmol.info
 
 我的reveal
 
-我的網站
+我的blog
