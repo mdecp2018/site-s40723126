@@ -10,6 +10,6 @@ cpgx 網站: https://cpgx.kmol.info
 # 我的網址
 我的網站:https://mdecp2018.github.io/site-s40723126/content/index.html
 
-我的reveal
+我的reveal:https://mdecp2018.github.io/site-s40723126/reveal/index.html#/
 
-我的網站
+我的blog:https://mdecp2018.github.io/site-s40723126/blog/index.html
